@@ -1,2 +1,5 @@
 print("Hello World")
 print("안녕 은선아")
+print('1. 파이썬')
+print('2. 코딩')
+print('3. 빅데이터')
